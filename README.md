@@ -1,2 +1,3 @@
-# MIDAS
-ai assistant that listen to your voice that understands human language for commands like: go to previous directory (cd ..)
+# MiDas
+
+MiDas (Machine Intelligent Directive Assistant) is a voice-driven AI interface that translates natural language into commands like: go to previous directory (cd ..).
